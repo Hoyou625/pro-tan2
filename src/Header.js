@@ -27,6 +27,9 @@ function Header(){
                     <li>
                         <NavLink to='/input'>Input</NavLink>
                     </li>
+                    <li>
+                        <NavLink to='/list'>List</NavLink>
+                    </li>
                 </ul>
             </nav>
 
